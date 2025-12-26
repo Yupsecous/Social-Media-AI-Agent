@@ -26,7 +26,7 @@ Before using the automation features, you can personalize the agent by training 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/uzumstanley/Social-Media-AI-Agent.git
+   git clone https://github.com/Yupsecous/Social-Media-AI-Agent
    cd Social-Media-AI-Agent
    ```
 
